@@ -1,2 +1,2 @@
 # Adaptive-intelligence-report
-There are resurces of assignment A and B, which built on Python 3.0
+There are resources of assignment A and B, which based on Python 3
